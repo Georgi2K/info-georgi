@@ -1,4 +1,4 @@
-*# Hi!  I'm Georgi Georgiev.*
+**Hi!  I'm Georgi Georgiev.**
 
 💡 Python developer with an interest in Backend development.
 
