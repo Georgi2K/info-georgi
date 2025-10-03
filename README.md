@@ -1,19 +1,17 @@
-*# Hi! 👋 I'm [name]*
+*# Hi!  I'm Georgi Georgiev.*
 
 💡 Python developer with an interest in Backend development.
 
-*## 🔧 Мои Hard Skills:*
+* My Hard Skills:*
 
-- `*Python, OOP, algorithms*`
-- `*Telegram, pyrogram*`
-- `*PyGame*`
-- `*Flask, REST API*`
-- `*SQLite*`
+- Python, OOP, algorithms
+- Telegram, Pyrogram
+- PyGame
+- Flask, REST API
+- SQLite
 
-`*## 📌 My Projects:*`
+*📌 My Projects:*
 
-- `*[Flask Weather API](https://github.com/user/weather-api)*`
-- `*[Telegram Bot with Mini-Games](https://github.com/user/telegram-bot)*`
-- `*[Price Prediction Model](https://github.com/user/prices)*`
+- Cat vs Dog Classifier
 
-`*📫 Contact: [Telegram](https://t.me/username) | [LinkedIn](https://linkedin.com/in/username)*`
+`*📫 Contact: [Telegram](https://t.me/georgi_k_georgiev) | [Signal](https://signal.me/#eu/IiYxcSsgXdgtzNchI1SZs9FGd8bqY-H6Pyuif6_vdeF1_0VQ0l5J142g1yOmYtjE)
