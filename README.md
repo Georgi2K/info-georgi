@@ -2,7 +2,7 @@
 
 💡 Python developer with an interest in Backend development.
 
-* My Hard Skills: *
+* My Hard Skills:
 
 - Python, OOP, algorithms
 - Telegram, Pyrogram
