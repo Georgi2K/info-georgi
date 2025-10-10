@@ -12,7 +12,7 @@
 
 *📌 My Projects:*
 
-- [Cat vs Dog Classifier](https://github.com/Georgi2K/portfolio-site.git) (I got mixed up making up the name of the repository, thus naming it "portfolio site"..)
+- [Cat vs Dog Classifier](https://github.com/Georgi2K/portfolio-site.git)
 
   * My Soft Skills:
 - Friendly
